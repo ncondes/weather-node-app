@@ -1,6 +1,6 @@
 # Weather node app
 
-This is a project built in Node.js isung some external packages, such as inquirer, colors, axios, creating an app that returns the temperature of a place acording to the geographic location ( latitude and longitude ).
+This is a project built in Node.js isung some external packages, such as inquirer, colors, axios, creating an app that returns the temperature of a place acording to the geographic coordinates ( latitude and longitude ).
 
 ## Table of contents
 
